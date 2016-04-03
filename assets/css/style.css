@@ -1,0 +1,135 @@
+body {
+  padding-top: 50px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #0077b3;
+    font-size: 3em;
+}
+
+div h1 {
+    text-align: center;
+    color: white;
+}
+
+div h2 {
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+
+.main h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    color: #0077b3;
+
+    /* #0077b3*/
+}
+
+.main h1 span {
+    color: white;
+}
+
+
+.main h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: white;
+    margin-top: 1em;
+}
+
+.main div p {
+    color: white;
+    line-height: 2em;
+}
+
+div > p {
+    text-align: center;
+}
+
+.skills li {
+    display: inline;
+}
+
+.skills h2 {
+    margin-top: 80px;
+}
+
+.main{
+    height: 100%;
+}
+
+.bg-color {
+    background-color: #00ace6;
+}
+
+.mid-section {
+    background-color: #f0f5f5;
+}
+
+.mid-section p {
+    padding: 50px 0px;
+    margin: 15px 0px;
+    line-height: 2.5em;
+}
+
+button{
+    margin-top: 100px;
+}
+
+/* VERTICAL ALIGN MAIN SECTION */
+#outerdiv{
+    display: table;
+    height: 100%;
+
+}
+
+#insidediv {
+    display:table-cell;
+  	vertical-align:middle;
+}
+
+.skills-img {
+    height: 220px;
+    width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: #0077b3;
+    text-align: center;
+}
+
+.skills-wraper {
+    margin-top: 60px;
+}
+
+.col-md-4 {
+    margin-top: 50px;
+}
+
+.portifolio {
+    margin-top: 70px;
+}
+
+.test {
+    height: 220px;
+    width: 220px;
+    background-color: #0077b3;
+    border-radius: 5px;
+
+}
